@@ -1,4 +1,4 @@
-# MPSAIPolicy
+# MPS AI Policy
 AI Policy I created, and presented to the Mcloud Public School System School Board.
 Mcloud Public Schools AI Governance and Policy Project
 🛡️ Project Overview: AI Policy Development and Governance
