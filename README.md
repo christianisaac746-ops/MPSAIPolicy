@@ -57,11 +57,9 @@ NEW: AI Governance and Continuous Assessment: (Crucial for oversight) Establishe
 💻 Tech Stack & Tools
 Policy Management: Microsoft Word / Google Docs (for collaborative editing)
 
-Policy Analysis/Integration: Generative AI (used as a tool to compare and seamlessly integrate document versions)
-
 Compliance Framework: FERPA (Family Educational Rights and Privacy Act)
 
 ✍️ Contribution / Contact
-This project was developed by [Your Name] as part of the Mcloud Public Schools administration team.
+This project was developed by Christian Rooks as part of the Mcloud Public Schools administration team.
 
-For inquiries regarding the policy framework or the development process, please contact [Your Email Address].
+For inquiries regarding the policy framework or the development process, please contact crooks@mcloudschools.us.
