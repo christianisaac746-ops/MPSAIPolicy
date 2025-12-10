@@ -41,7 +41,7 @@ The result of this intensive, collaborative process was the first draft of the "
 📊 Policy Revision and Governance Integration (Phase II: Superintendent Review)
 The initial draft was presented to the Superintendent for final approval. The Superintendent provided essential high-level feedback, which shifted the policy's focus from mere control to robust Governance and Continuous Assessment.
 
-
+<img width="694" height="353" alt="Image" src="https://github.com/user-attachments/assets/faa95a71-9f39-4097-bbf9-619ef0abe74e" />
 
 📁 Repository Contents (Final Policy Structure)
 The final, integrated policy document contains several key sections that are particularly relevant to a cybersecurity and governance portfolio:
