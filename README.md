@@ -41,13 +41,7 @@ The result of this intensive, collaborative process was the first draft of the "
 📊 Policy Revision and Governance Integration (Phase II: Superintendent Review)
 The initial draft was presented to the Superintendent for final approval. The Superintendent provided essential high-level feedback, which shifted the policy's focus from mere control to robust Governance and Continuous Assessment.
 
-Area	Superintendent's Key Addition	Cybersecurity/Governance Impact
-Data & Privacy	Mandating compliance with FERPA and requiring strong security measures for any AI tool used.	Direct requirement for data protection, risk assessment of third-party tools, and legal compliance.
-Equity	Ensuring equitable access and addressing algorithmic bias in AI tools.	Focus on fairness in system design and continuous monitoring of outcomes to prevent discrimination.
-Governance	Establishing an AI Advisory Board of diverse stakeholders.	Creation of a formal Risk Management and Compliance body for AI, ensuring human oversight and accountability.
-Accountability	Implementing a plan for continuous evaluation and feedback to measure AI's impact.	Mandating a Security and Efficacy Auditing cycle for all AI deployments.
 
-Export to Sheets
 
 📁 Repository Contents (Final Policy Structure)
 The final, integrated policy document contains several key sections that are particularly relevant to a cybersecurity and governance portfolio:
