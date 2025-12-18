@@ -1,12 +1,12 @@
 # MPS AI Policy
 AI Policy I created, and presented to the Mcloud Public School System School Board.
 Mcloud Public Schools AI Governance and Policy Project
-🛡️ Project Overview: AI Policy Development and Governance
+**Project Overview: AI Policy Development and Governance**
 This repository documents the comprehensive process used to develop and implement a responsible Artificial Intelligence (AI) Policy for the Mcloud Public School District. This project demonstrates robust skills in policy creation, risk analysis, compliance (FERPA), stakeholder management, and integrating emerging technology securely within an educational environment.
 
 The core deliverable is the final AI policy, which governs the ethical, pedagogical, and secure use of generative AI tools (like ChatGPT, Gemini, etc.) by students, staff, and administrators across the district.
 
-🚀 Key Achievements
+**Key Achievements**
 Policy Creation: Developed a comprehensive, district-wide AI policy focusing on academic integrity, equity, and data privacy.
 
 Stakeholder Consensus: Managed a multi-school task force to gather diverse requirements and build consensus across the K-12 spectrum.
@@ -15,7 +15,7 @@ Security & Compliance Focus: Integrated key cybersecurity and data governance pr
 
 Agile Iteration: Successfully incorporated high-level governance and implementation suggestions from the Superintendent, resulting in a robust, future-proof policy.
 
-🧠 Thought Process and Planning (Phase I: Task Force & Draft)
+**Thought Process and Planning (Phase I: Task Force & Draft)**
 The project began by recognizing the immediate need for a unified policy to manage the security, integrity, and ethical challenges posed by readily available generative AI. The goal was to create a policy that augments human creativity rather than replaces it.
 
 1. AI Task Force Formation (Decentralized Input)
@@ -38,12 +38,12 @@ Basic Ethics/Security: Establishing foundational rules for data privacy and avoi
 
 The result of this intensive, collaborative process was the first draft of the "Mcloud Public Schools AI Policy.docx."
 
-📊 Policy Revision and Governance Integration (Phase II: Superintendent Review)
+**Policy Revision and Governance Integration (Phase II: Superintendent Review)**
 The initial draft was presented to the Superintendent for final approval. The Superintendent provided essential high-level feedback, which shifted the policy's focus from mere control to robust Governance and Continuous Assessment.
 
 <img width="694" height="353" alt="Image" src="https://github.com/user-attachments/assets/faa95a71-9f39-4097-bbf9-619ef0abe74e" />
 
-📁 Repository Contents (Final Policy Structure)
+**Repository Contents (Final Policy Structure)**
 The final, integrated policy document contains several key sections that are particularly relevant to a cybersecurity and governance portfolio:
 
 Rationale and Purpose: Outlines the legal and ethical necessity for the policy.
@@ -54,12 +54,12 @@ NEW: Data Privacy, Security, and Equity: (Crucial for compliance) Explicitly add
 
 NEW: AI Governance and Continuous Assessment: (Crucial for oversight) Establishes the AI Advisory Board, empowers educators, and outlines the annual review process.
 
-💻 Tech Stack & Tools
+**Tech Stack & Tools**
 Policy Management: Microsoft Word / Google Docs (for collaborative editing)
 
 Compliance Framework: FERPA (Family Educational Rights and Privacy Act)
 
-✍️ Contribution / Contact
+**Contribution / Contact**
 This project was developed by Christian Rooks as part of the Mcloud Public Schools administration team.
 
 For inquiries regarding the policy framework or the development process, please contact crooks@mcloudschools.us.
